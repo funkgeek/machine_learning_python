@@ -1,2 +1,2 @@
-# machinelearning_Python3
+# machine_learning_Python3
 Machine Learning with Python3 based on Jupyter Notebook
