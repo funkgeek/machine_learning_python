@@ -31,7 +31,7 @@ Paper: https://arxiv.org/abs/1703.03400
 
 + [Auto-Meta] Automated Gradient Based Meta Learner Search  
 Paper: https://arxiv.org/abs/1806.06927  
-Highlights: To choose architecture that is effective for inner gradient-step, use progressive neural architecture search + MAML. 1) finds highly non-standard architecture (deep & narrow); 2) different from architectures that work well for standard supervised learning.  
+Highlights: progressive neural architecture search + MAML
 
 + [Meta-SGD] Learning to Learn Quickly for Few-Shot Learning  
 Paper: https://arxiv.org/abs/1707.09835  
@@ -44,7 +44,7 @@ Paper: https://arxiv.org/abs/1810.09502
 Code: https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch  
 Review: https://openreview.net/forum?id=HJGven05Y7  
 Others: https://www.bayeswatch.com/2018/11/30/HTYM/  
-Highlights: Decouple inner learning rate, BN sta&s&cs per-step  
+Highlights: Decouple inner learning rate, BN statistics per-step  
 
 + [CAVIA] Fast Context Adaptation via Meta-Learning  
 Paper: https://arxiv.org/pdf/1810.03642.pdf  
