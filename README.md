@@ -53,6 +53,7 @@ Code: https://github.com/lmzintgraf/cavia
 + [Reptile] On First-Order Meta-Learning Algorithms  
 Paper: https://arxiv.org/abs/1803.02999  
 Code: https://github.com/openai/supervised-reptile  
+Highlights:  Crudely approximate d∅i/dΘ as identity. It works for simple few-shot problems, but (anecdotally) not for more complex meta-learning problems.
 
 + [MetaSense] Few-shot Adaptation to Untrained Conditions in Deep Mobile Sensing   
 Paper: http://alinlab.kaist.ac.kr/resource/SenSys19_MetaSense.pdf  
