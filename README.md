@@ -23,6 +23,10 @@ Others
 
 ## Meta Learning
 Course: https://cs330.stanford.edu/  
+Code: https://github.com/cbfinn/maml  
+      https://github.com/cbfinn/maml_rl  
+      https://github.com/dragen1860/MAML-Pytorch  
+      https://github.com/tristandeleu/pytorch-maml-rl  
 Videos: https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=1  
 
 #### Papers  
